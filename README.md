@@ -6,14 +6,10 @@ Business Analytics and Information Systems Student at the University of Iowa
 
 ## Current Skills and Knowledge
 
-[![R](https://img.shields.io/badge/-R-green)](https://www.r-project.org/)
-[![Python](https://img.shields.io/badge/-Python-blue)](https://www.python.org/)
-[![Tableau](https://img.shields.io/badge/-Tableau-orange)](https://www.tableau.com/)
-[![SQL](https://img.shields.io/badge/-SQL-lightgrey)](https://www.sqltutorial.org/)
-[![Excel](https://img.shields.io/badge/-Excel-brightgreen)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![HTML](https://img.shields.io/badge/-HTML-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-blueviolet)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-purple)](https://getbootstrap.com/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Technology Application and Policy
 
