@@ -21,10 +21,10 @@ Business Analytics and Information Systems Student at the University of Iowa
 - Data Visualization
 - Applications of Artificial Intelligence
 
-## Connect with Me
+## Connect with Me! ⤵️
 
-- [My Personal Website](https://www.nickbutzler.com/)
-- [LinkedIn Profile](https://www.linkedin.com/in/nick-butzler-27878a1ba/)
+**Website URL:** https://nickbutzler.com/
+**Linkedln Porfile:**(https://www.linkedin.com/in/nick-butzler-27878a1ba/)
 
 Thank you for visiting my profile!
 
